@@ -7,9 +7,10 @@
 5.Plain Text ล่างขวาของ VSCODE หา GO 
 6.Analysis Tools Missing ล่างขวาของ VSCODE คลิ๊กแล้ว install 
   - All tools successfully installed. You’re ready to Go :). 
-     คือลง เรียบร้อยแล้ว
-7. ลอง hello 
+คือลง เรียบร้อยแล้ว
 
+7. ลอง hello 
+========================
 package main
 
 import "fmt"
@@ -17,7 +18,7 @@ import "fmt"
 func main() {
   fmt.Println("Hello, Sunvo")
 }
-
+=========================
 
 8. save main.go
 9. go run main.go
