@@ -17,13 +17,15 @@
 คือลง เรียบร้อยแล้ว
 
 7. ลอง hello 
-`` package main
+
+``` package main
 
 import "fmt"
 
 func main() {
   fmt.Println("Hello, Sunvo")
-} ``
+} ```
+
 
 8. save main.go
 
