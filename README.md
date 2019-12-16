@@ -29,9 +29,9 @@ func main() {
 
 8. save main.go
 
-9. go run main.go
+9. ```go run main.go```
 
-10 go build main.go
+10 ```go build main.go```
 
 11. ./main.exe
 
