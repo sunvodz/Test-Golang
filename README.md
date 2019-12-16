@@ -18,13 +18,13 @@
 
 7. ลอง hello 
 
- `` package main
+``` package main```
 
-import "fmt"
+```import "fmt"```
 
-func main() {
-  fmt.Println("Hello, Sunvo")
-} ``
+```func main() {```
+  ```fmt.Println("Hello, Sunvo")```
+```} ```
 
 8. save main.go
 
